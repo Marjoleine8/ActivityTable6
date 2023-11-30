@@ -15,7 +15,7 @@ export const profiles =[
         id:'095678',
         userName:'jevylain',
         password:'lyn0978',
-        userType:'Student',
+        userType:'Teacher',
         name:{
             firstName:'Jeeve lyn',
             lastName:'Lunzon',
@@ -63,7 +63,7 @@ export const profiles =[
         id:'052829',
         userName:'Dabi',
         password:'baugbog123',
-        userType:'Student',
+        userType:'Teacher',
         name:{
             firstName:'Dave',
             lastName:'Baugbog',
@@ -75,7 +75,7 @@ export const profiles =[
         id:'067896',
         userName:'mj',
         password:'sanchez',
-        userType:'Student',
+        userType:'Teacher',
         name:{
             firstName:'Maryjane',
             lastName:'Sanchez',
